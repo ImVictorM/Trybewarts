@@ -8,3 +8,7 @@
   display: flex;
   background-color: rgb(50, 167, 145);
 }
+
+.header img {
+  width: 100px;
+}
