@@ -7,18 +7,37 @@
 .header {
   display: flex;
   background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+}
+
+#trybewarts-header-title {
+  color: white;
 }
 
 .header img {
-  width: 100px;
+  width: 70px;
 }
 
 .trybewarts-login {
   display: flex;
 }
 
+.btn-purple {
+  background-color: rgb(67, 35, 118);
+  color: white;
+}
+
 main {
   display: flex;
+  justify-content: center;
+}
+
+#evaluation-form h2 {
+  text-align: center;
+  margin: 30px 0;
+  font-weight: 700;
 }
 
 #evaluation-form {
@@ -34,4 +53,13 @@ main {
 #radio-container {
   display: flex;
   flex-direction: column;
+}
+
+#radio-rate-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#counter {
+  color: rgba(0, 0, 0, 0.548);
 }
