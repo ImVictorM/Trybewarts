@@ -1,6 +1,12 @@
 # Trybewarts
-Trybewarts School of Magic form, where student people can submit their comments about it. 🧙🏻‍♀️ <br/>
-The theme of this project is based on the work 'Harry Potter', by J.K. Rowling, since programming is the closest we can get to something truly magical!
+<div>
+    <img src="./images/trybewarts-colored.svg" width="100px" align="right" />
+    <p align="left">
+        Trybewarts School of Magic form, where student people can submit their comments about it. 🧙🏻‍♀️ <br/>
+        The theme of this project is based on the work 'Harry Potter', by J.K. Rowling, since programming is the closest we can get to something truly magical!
+    </p>
+</div>
+
 ## Used Technologies 
 <table>
     <thead>
